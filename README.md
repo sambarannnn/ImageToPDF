@@ -1,5 +1,5 @@
 # ImagesToPDF
- Make PDF from multiple images!
+ Make a PDF from multiple images!
  
  Walkthrough :
  
